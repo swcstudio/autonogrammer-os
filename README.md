@@ -1,2 +1,2 @@
 # autonogrammer-os
-Written by the #1 Impact Engineer in Australia for Frontier Terminal AI's such as Claude Code, Codex, Gemini CLI, OpenCode, Amp &amp; Kiro. High-Performance Quantum Computing &amp; Data Engineering with Quantum Physics. These are the Slash Commands our Engineering Team uses to build the Autonogrammer Platform Ecosystem (APE)
+Slash Commands for Engineering Teams | HPQC & Data Engineering with Quantum Physics programmed into Frontier Terminal Agent's | These are prewritten schema's to help further the Australian Engineering Technical Efficiency | Our Engineering Lead is an Impact Engineer (Actuarial | Computer Science | Quantum Physics) with WEB3 | AI/ML | Data Engineering | Purple Hat Programming for Production capabilities. 
